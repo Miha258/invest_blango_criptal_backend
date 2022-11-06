@@ -1,0 +1,2 @@
+port: '8080'
+mongodb_uri: "mongodb+srv://tEST:Hrfb2kLK8Aoo4Fxk@cluster0.zlpox.mongodb.net/guardbot?retryWrites=true&w=majority"
